@@ -26,31 +26,13 @@ Such a process will be 2-stage and can look like this.
 
 ##  🖼️ Demo
 
-<table>
-    <tr>
-    <td>gpt3-16k - Try #1</td>
-    </tr>
-  <tr>
-    <td style="vertical-align: top; width: 50%;"><img src="reports/figures/screenshot_2023-06-15_at_13.59.23.png" alt="圖片"></td>
-    <td style="width: 50%;">
-      <img src="reports/figures/screenshot_2023-06-15_at_13.56.34.png" alt="圖片1">
-      <img src="reports/figures/screenshot_2023-06-15_at_13.56.40.png" alt="圖片2">
-    </td>
-  </tr>
-</table>
+**gpt3-16k | Try #1**
 
-<table>
-    <tr>
-    <td>gpt3-16k - Try #2</td>
-    </tr>
-  <tr>
-    <td style="vertical-align: top; width: 50%;"><img src="reports/figures/screenshot_2023-06-15_at_13.59.23.png" alt="圖片"></td>
-    <td style="width: 50%;">
-      <img src="reports/figures/screenshot_2023-06-15_at_13.57.10.png" alt="圖片1">
-      <img src="reports/figures/screenshot_2023-06-15_at_13.57.15.png" alt="圖片2">
-    </td>
-  </tr>
-</table>
+![Demo1.png](reports/figures/Demo1.png)
+
+**gpt3-16k | Try #2**
+
+![Demo2.png](reports/figures/Demo2.png)
 
 ## Relevant works
 
