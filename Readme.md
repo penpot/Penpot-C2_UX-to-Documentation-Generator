@@ -17,7 +17,8 @@ As a technologist, I want to analyze a Penpot interactive prototype flow and gen
 
 <br>
 
-## ✨ Demo
+## ✨ Demo [[→](Approach\%231-Documentation_generation_from_cleaned_SVG/demo/ui2docs.ipynb)] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/penpot/Penpot-C2_UX-to-Documentation-Generator/blob/main/Approach%25231-Documentation_generation_from_cleaned_SVG/demo/ui2docs.ipynb)
+
 Explore hands-on experience with the [demo](Approach\%231-Documentation_generation_from_cleaned_SVG/demo/ui2docs.ipynb) of the proposed approach.
 
 <br>
