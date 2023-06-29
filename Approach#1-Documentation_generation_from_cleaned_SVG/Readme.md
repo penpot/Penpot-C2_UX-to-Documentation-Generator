@@ -1,4 +1,4 @@
-# Approach #1 | Documentation generation from “cleaned” SVG**
+# Approach #1 | Documentation generation from “cleaned” SVG
 
 | Technology readiness | Risks | Complexity |
 | ----- | ----- | ---------- |
