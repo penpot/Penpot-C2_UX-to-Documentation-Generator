@@ -1,5 +1,9 @@
 # Idea #2 | UX to Documentation Generator
 
+| 🚀 Help the community improve the Penpot challenge! 🚀    | 
+|---------------------------------------------------------------|
+| 💡 Please feel free to share your valuable comments [here](https://github.com/penpot/Penpot-C2_UX-to-Documentation-Generator/issues/1#issue-1780329483).|
+
 ## 🔎 Idea overview
 
 As a technologist, I want to analyze a Penpot interactive prototype flow and generate a set of user stories and documentation meant to describe the technical work needed to implement them.
