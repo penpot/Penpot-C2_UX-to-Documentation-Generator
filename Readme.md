@@ -3,7 +3,7 @@
 ### 🚀 Calling all innovators!  🚀 
 
 💡 We're looking for your creative genius to level up the Penpot challenge.     
-Share your groundbreaking ideas and let's redefine what's possible [here](https://github.com/penpot/Penpot-Bonus_Generative-based-Co-pilot/issues/1#issue-1780339544) ! 🔥
+Share your groundbreaking ideas and let's redefine what's possible [here](https://github.com/penpot/Penpot-C2_UX-to-Documentation-Generator/issues/1#issue-1780329483) ! 🔥
 
 <br>
 
