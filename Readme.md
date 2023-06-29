@@ -11,7 +11,7 @@ As a technologist, I want to analyze a Penpot interactive prototype flow and gen
 <br>
 
 ## 💡 Feature analysis
-### Approach #1 | Documentation generation from “cleaned” SVG [[More](Approach\%231-Documentation_generation_from_cleaned_SVG/Readme.md)]
+### Approach #1 | Documentation generation from “cleaned” SVG [[More](Approach\%231-Documentation_generation_from_cleaned_SVG/)]
 
 ## ✨ Demo
 Explore hands-on experience with the [demo](Approach\%231-Documentation_generation_from_cleaned_SVG/demo/ui2docs.ipynb) of the proposed approach.
