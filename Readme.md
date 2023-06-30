@@ -7,7 +7,7 @@ Share your groundbreaking ideas and let's redefine what's possible [here](https:
 
 <br>
 
-## 🔎 Challenge overview
+## 🔎 Overview
 
 As a technologist, I want to analyze a Penpot interactive prototype flow and generate a set of user stories and documentation meant to describe the technical work needed to implement them.
 
