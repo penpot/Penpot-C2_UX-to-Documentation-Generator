@@ -46,7 +46,7 @@ There is no particular existing paper/module/FIgma plugin that re-creates such f
     
 - Automating the process speeds up the overall development lifecycle
 - The possible use of AI models with unlimited context windows allows for a deeper understanding of the SVG design, leading to more accurate and detailed documentation.
-- This idea has a sufficiently ready technological background for real-world implementation.
+- This challenge has a sufficiently ready technological background for real-world implementation.
 
 🔴 Cons
 
