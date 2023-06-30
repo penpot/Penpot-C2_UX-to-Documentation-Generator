@@ -1,4 +1,4 @@
-# Idea #2 | UX to Documentation Generator
+# Challenge #2 | UX to Documentation Generator
 
 ### 🚀 Calling all innovators!  🚀 
 
@@ -7,7 +7,7 @@ Share your groundbreaking ideas and let's redefine what's possible [here](https:
 
 <br>
 
-## 🔎 Idea overview
+## 🔎 Challenge overview
 
 As a technologist, I want to analyze a Penpot interactive prototype flow and generate a set of user stories and documentation meant to describe the technical work needed to implement them.
 
